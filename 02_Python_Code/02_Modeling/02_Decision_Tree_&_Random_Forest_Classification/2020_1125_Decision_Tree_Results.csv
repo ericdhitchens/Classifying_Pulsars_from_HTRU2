@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Decision_Tree,0.97,0.83,0.84,0.83

@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Random_Forest,0.98,0.94,0.84,0.88

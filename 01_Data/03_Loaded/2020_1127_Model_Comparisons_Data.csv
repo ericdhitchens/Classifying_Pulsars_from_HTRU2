@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1-Score
+DNN,0.98,0.90,0.87,0.88
+Random_Forest,0.98,0.94,0.84,0.88
+Decision_Tree,0.97,0.83,0.84,0.83
+SVM,0.98,0.94,0.83,0.88
+Logistic,0.98,0.94,0.81,0.87
